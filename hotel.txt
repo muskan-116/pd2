@@ -1,0 +1,4 @@
+pizza,500
+burger,200
+pasta,250
+biryani,700

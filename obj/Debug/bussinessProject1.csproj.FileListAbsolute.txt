@@ -1,0 +1,7 @@
+G:\PD2\bussinessProject1\bussinessProject1\obj\Debug\bussinessProject1.csproj.AssemblyReference.cache
+G:\PD2\bussinessProject1\bussinessProject1\obj\Debug\bussinessProject1.csproj.CoreCompileInputs.cache
+G:\PD2\bussinessProject1\bussinessProject1\bin\Debug\bussinessProject1.exe.config
+G:\PD2\bussinessProject1\bussinessProject1\bin\Debug\bussinessProject1.exe
+G:\PD2\bussinessProject1\bussinessProject1\bin\Debug\bussinessProject1.pdb
+G:\PD2\bussinessProject1\bussinessProject1\obj\Debug\bussinessProject1.exe
+G:\PD2\bussinessProject1\bussinessProject1\obj\Debug\bussinessProject1.pdb

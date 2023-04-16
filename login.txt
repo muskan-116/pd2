@@ -1,0 +1,4 @@
+muskan,123,admin
+ali,456,customer
+zara,1122,customer
+
